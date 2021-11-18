@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parbhat-cpp
 - ❤️ love to code
-- 📲 you can contact me on instagram my username is prabhat.cpp
+- 📲 you can contact me on instagram my username is prabhatsharma.cpp
 - 💻 I know c++ & java
 - 🎒 still in high school
 - 🇮🇳 Indian
