@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parbhat-cpp" alt="parbhat-cpp" /></a> </p>
 
-- 🔭 I’m currently working on **Google forms clone**
+- 🔭 I’m currently working on **Internship Assignments**
 
 - 🌱 I’m currently learning **to write better code**
 
